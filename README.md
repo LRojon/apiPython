@@ -1,7 +1,7 @@
 # API
 ## Sommaire
 * ## [Cardmaker](#Cardmaker)
-    * [Obtenir les cartes](##Obtenir\ les\ cartes)
+    * [Obtenir les cartes](##Obtenir&nbsp;les&nbsp;cartes)
     * Envoyer une carte
     * Obtenir les classes
     * Obtenir les raretés
