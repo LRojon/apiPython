@@ -27,18 +27,18 @@ Tout les paramêtres sont à envoyer au format JSON
 
 Envoyer une carte
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/cardmaker/card/set/one
-```json
+```js
 {
-   id: integer,
-   name: string,
-   job: integer,
-   effect: string,
-   copy: integer,
-   stat: "<FOR/DEX/INT>",
-   cost: integer,
-   requirement: "<FOR>/<DEX>/<INT>",
-   rarity: integer,
-   god: integer
+   'id': integer,
+   'name': string,
+   'job': integer,
+   'effect': string,
+   'copy': integer,
+   'stat': "<FOR/DEX/INT>",
+   'cost': integer,
+   'requirement': "<FOR>/<DEX>/<INT>",
+   'rarity': integer,
+   'god': integer
 }
 ```
 
